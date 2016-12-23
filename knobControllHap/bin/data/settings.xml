@@ -1,0 +1,14 @@
+<group>
+	<appFPS>60</appFPS>
+	<file>sample_hap.mov</file>
+	<width>1280</width>
+	<height>720</height>
+	<!-- NONE NORMAL PALINDROME -->
+	<loopState>NORMAL</loopState>
+ 	<isGUI>1</isGUI>
+	<startPositon>0.5</startPositon>
+	<initThrust>0.5</initThrust>
+	<friction>0.97</friction>
+	<isFullscreen>0</isFullscreen>
+	<minSpeed>0.5</minSpeed>
+</group>
